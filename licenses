@@ -1,0 +1,10 @@
+{
+  "licenses": {
+    "CROWNS-K7P2-91MX": {
+      "serverId": "WAITING-FOR-SERVER-ID",
+      "enabled": true,
+      "owner": "FriendName",
+      "buildId": "CROWNS-FRIEND-001"
+    }
+  }
+}
