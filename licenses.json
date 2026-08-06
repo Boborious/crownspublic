@@ -1,10 +1,24 @@
 {
   "licenses": {
     "CROWNS-K7P2-91MX": {
-      "serverId": "WAITING-FOR-SERVER-ID",
+      "serverId": "3ce49840-6384-4bc8-913b-bc9afaf52b19",
       "enabled": true,
-      "owner": "FriendName",
+      "owner": "FriendOne",
       "buildId": "CROWNS-FRIEND-001"
+    },
+
+    "CROWNS-T4LM-82QZ": {
+      "serverId": "861f84c1-f049-42ab-8be7-8daef82209ed",
+      "enabled": true,
+      "owner": "FriendTwo",
+      "buildId": "CROWNS-FRIEND-002"
+    },
+
+    "CROWNS-P9XA-44NB": {
+      "serverId": "99a264f8-6357-49df-a845-9300dcb041f2",
+      "enabled": false,
+      "owner": "OldServer",
+      "buildId": "CROWNS-FRIEND-003"
     }
   }
 }
