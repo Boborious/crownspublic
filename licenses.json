@@ -10,15 +10,15 @@
     "CROWNS-T4LM-82QZ": {
       "serverId": "43e8e0de-4726-4e29-a95f-f02a38c83e68",
       "enabled": true,
-      "owner": "FriendTwo",
-      "buildId": "CROWNS-FRIEND-002"
+      "owner": "Nalpio",
+      "buildId": "CROWNS-FRIEND-001"
     },
 
     "CROWNS-P9XA-44NB": {
       "serverId": "99a264f8-6357-49df-a845-9300dcb041f2",
       "enabled": false,
-      "owner": "OldServer",
-      "buildId": "CROWNS-FRIEND-003"
+      "owner": "Nalpio",
+      "buildId": "CROWNS-FRIEND-001"
     }
   }
 }
