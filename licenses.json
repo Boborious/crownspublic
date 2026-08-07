@@ -16,7 +16,7 @@
 
     "CROWNS-P9XA-44NB": {
       "serverId": "82991073-207b-4f20-8aee-16ab26bc5a6a",
-      "enabled": false,
+      "enabled": true,
       "owner": "Nalpio",
       "buildId": "CROWNS-FRIEND-001"
     }
